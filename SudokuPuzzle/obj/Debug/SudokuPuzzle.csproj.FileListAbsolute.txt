@@ -1,0 +1,7 @@
+C:\Users\Allen\source\repos\SudokuPuzzle\SudokuPuzzle\obj\Debug\SudokuPuzzle.csprojAssemblyReference.cache
+C:\Users\Allen\source\repos\SudokuPuzzle\SudokuPuzzle\obj\Debug\SudokuPuzzle.csproj.CoreCompileInputs.cache
+C:\Users\Allen\source\repos\SudokuPuzzle\SudokuPuzzle\bin\Debug\SudokuPuzzle.exe.config
+C:\Users\Allen\source\repos\SudokuPuzzle\SudokuPuzzle\bin\Debug\SudokuPuzzle.exe
+C:\Users\Allen\source\repos\SudokuPuzzle\SudokuPuzzle\bin\Debug\SudokuPuzzle.pdb
+C:\Users\Allen\source\repos\SudokuPuzzle\SudokuPuzzle\obj\Debug\SudokuPuzzle.exe
+C:\Users\Allen\source\repos\SudokuPuzzle\SudokuPuzzle\obj\Debug\SudokuPuzzle.pdb
